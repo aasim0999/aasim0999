@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aasim0999
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...77.aasim@gmail.com
 
 <!---
