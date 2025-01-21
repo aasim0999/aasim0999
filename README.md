@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aasim0999
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...data science
-- 📫 How to reach me ...77.aasim@gmail.com
+- 📫 How to reach me ...asimvelani@hotmail.com
 
 <!---
 aasim0999/aasim0999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
